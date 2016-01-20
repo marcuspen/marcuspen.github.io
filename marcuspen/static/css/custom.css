@@ -1,0 +1,17 @@
+.header {
+    margin-top: 1rem;
+    text-align: center;
+}
+.title{
+    margin-top: 6rem;
+}
+.link {
+    text-decoration: none;
+    color: #222;
+}
+.link.active {
+    color: #33C3F0;
+}
+.email {
+    text-decoration: none;
+}
